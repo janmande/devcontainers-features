@@ -1,7 +1,7 @@
 {
   "name": "ubuntu-ssh",
   "id": "ubuntu-ssh",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Installs ssh on Ubuntu",
   "documentationURL": "https://github.com/janmande/devcontainers-features/tree/main/src/ubuntu-ssh"
 }
